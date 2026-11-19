@@ -1,0 +1,178 @@
+﻿code,name,category code,type,unit price,price before sale,look,brand,specs,stock (Zochil),zochil product id,image (website path)
+EC-999244,Цай Lychee black tea,EC-TEA,product,23800,28000,,,,,999244,/images/p/999244-1.webp
+EC-999242,Цай Mint Green tea,EC-TEA,product,23800,28000,,,,,999242,/images/p/999242-1.webp
+EC-999240,Цай Earl Grey black tea,EC-TEA,product,23800,28000,,,,,999240,/images/p/999240-1.webp
+EC-924617,Drip данх 1000мл,EC-BREWERS,product,180000,,,,ml=1000,1,924617,/images/p/924617-1.webp
+EC-923799,Үрлэн кофе Borbone Oro 1000гр,EC-BEANS,product,108000,,,borbone,grams=1000,,923799,/images/p/923799-1.webp
+EC-923796,Үрлэн кофе Borbone classic 1000гр,EC-BEANS,product,98000,,,borbone,grams=1000,,923796,/images/p/923796-1.webp
+EC-902993,Кофе чанагч Bialetti Italy Roma 3 cups,EC-MOKA,product,165000,,,bialetti,cups=3; induction=false; material=Хөнгөн цагаан,,902993,/images/p/902993-1.webp
+EC-902979,Nespresso капсул кофены тавиур,EC-BARISTA,product,35000,,,,,,902979,/images/p/902979-1.webp
+EC-902977,Тавиур 1883 display stand 4 syrup,EC-CAFE,product,65000,,,1883,,3,902977,/images/p/902977-1.webp
+EC-902975,Тавиур 1883 display stand 3 puree,EC-CAFE,product,85000,,,1883,,3,902975,/images/p/902975-1.webp
+EC-902972,Тавиур 1883 Syrup display stand 6 сироп,EC-CAFE,product,85000,,,1883,,3,902972,/images/p/902972-1.webp
+EC-902964,Lelit one way filterholder,EC-BARISTA,product,239000,,,lelit,,1,902964,/images/p/902964-1.webp
+EC-898752,Мока пот 9 аяга Ган кофе чанагч,EC-MOKA,product,95000,,,,cups=9,1,898752,/images/p/898752-1.webp
+EC-898608,Кофе чанагч Moka express 3 cups,EC-MOKA,product,160000,,,bialetti,cups=3; yieldMl=135; induction=false; material=Хөнгөн цагаан,,898608,/images/p/898608-1.webp
+EC-898578,Кофе чанагч Moka express Omino 1 cup,EC-MOKA,product,130000,,,bialetti,cups=1; induction=false; material=Хөнгөн цагаан,,898578,/images/p/898578-1.webp
+EC-897769,Holder пластик 100ш,EC-CAFE,product,13000,,,,pieces=100,,897769,/images/p/897769-1.webp
+EC-893850,Асгардаггүй хүйтний аяга 50ш,EC-CAFE,product,36000,40000,,,pieces=50,,893850,/images/p/893850-1.webp
+EC-890092,Кофе чанагч Bridgerton 6 cups,EC-MOKA,product,328000,,,bialetti,cups=6,,890092,/images/p/890092-1.webp
+EC-878654,Matcha powder Matcha 100% 1000гр,EC-TEA,product,50000,,,,grams=1000,,878654,/images/p/878654-1.webp
+EC-878653,Matcha set матча сэт 2ш,EC-TEA,product,20000,,,,pieces=2,,878653,/images/p/878653-1.webp
+EC-878652,Matcha set матча сэт 4ш,EC-TEA,product,58000,,,,pieces=4,1,878652,/images/p/878652-1.webp
+EC-878651,Тавиур кофе сахар · хар ногоон,EC-CAFE,product,30000,,хар ногоон,,,,878651,/images/p/878651-1.webp
+EC-878650,Тавиур кофе сахар · шаргал,EC-CAFE,product,30000,,шаргал,,,,878650,/images/p/878650-1.webp
+EC-833506,Урьдчилсан захиалга 16oz 500ш,EC-CAFE,product,207000,230000,,,oz=16; pieces=500; preorderDays=14-30,,833506,/images/p/833506-1.webp
+EC-833496,Урьдчилсан захиалга 12oz 500ш,EC-CAFE,product,189000,210000,,,oz=12; pieces=500; preorderDays=14-30,,833496,/images/p/833496-1.webp
+EC-833493,Урьдчилсан захиалга 14oz 500ш,EC-CAFE,product,193500,215000,,,oz=14; pieces=500; preorderDays=14-30,,833493,/images/p/833493-1.webp
+EC-832226,Аяга халуун барьдаг,EC-CUPS,product,35000,,,,,,832226,/images/p/832226-1.webp
+EC-832224,Аяга ган,EC-CUPS,product,15000,,,,,,832224,/images/p/832224-1.webp
+EC-832222,Аяга 200мл,EC-CUPS,product,12500,,,,ml=200,,832222,/images/p/832222-1.webp
+EC-814744,"Аяга шилэн 6ш · хөлтэй, судалтай",EC-CUPS,product,65400,,"хөлтэй, судалтай",,pieces=6; material=Шил,,814744,/images/p/814744-1.webp
+EC-814743,Аяга шилэн 6ш · бариултай,EC-CUPS,product,65400,,бариултай,,pieces=6; material=Шил,,814743,/images/p/814743-1.webp
+EC-814739,Аяга шилэн 350мл 6ш,EC-CUPS,product,65400,,,,ml=350; pieces=6; material=Шил,,814739,/images/p/814739-1.webp
+EC-807919,Аяга Romantic wild,EC-CUPS,product,48000,,,bialetti,,,807919,/images/p/807919-1.webp
+EC-807912,Капсул Nespresso суурь,EC-PARTS,product,35000,,,,,,807912,/images/p/807912-1.webp
+EC-807911,Газ холбогч · гурван хөлтэй,EC-TRAVEL,product,28000,,гурван хөлтэй,,,,807911,/images/p/807911-1.webp
+EC-807891,1883 PVC дэвсгэр,EC-BARISTA,product,48000,,,1883,,,807891,/images/p/807891-1.webp
+EC-807890,1883 jigger хэмжигч,EC-BARISTA,product,58000,,,1883,,,807890,/images/p/807890-1.webp
+EC-807889,1883 алчуур bartender towel,EC-BARISTA,product,30000,,,1883,,5,807889,/images/p/807889-1.webp
+EC-807790,Knock box Кофены шаар сав · том,EC-BARISTA,product,35000,,том,,,,807790,/images/p/807790-1.webp
+EC-787375,Үрлэн кофе Hazelnut 500гр medium,EC-BEANS,product,73000,,,,grams=500; roast=medium,,787375,/images/p/787375-1.webp
+EC-783344,Ган аяга 240мл · цагаан хээтэй,EC-CUPS,product,30000,,цагаан хээтэй,,ml=240; material=Ган 304,3,783344,/images/p/783344-1.webp
+EC-783343,Ган аяга 240мл · улаан,EC-CUPS,product,30000,,улаан,,ml=240; material=Ган 304,4,783343,/images/p/783343-1.webp
+EC-783341,Ган аяга 240мл · цэнхэр,EC-CUPS,product,30000,,цэнхэр,,ml=240; material=Ган 304,4,783341,/images/p/783341-1.webp
+EC-783338,Ган аяга 240мл · шар,EC-CUPS,product,30000,,шар,,ml=240; material=Ган 304,5,783338,/images/p/783338-1.webp
+EC-783329,Ган аяга 260мл · цайвар,EC-CUPS,product,27000,,цайвар,,ml=260; material=Ган 316,,783329,/images/p/783329-1.webp
+EC-783328,Ган аяга 260мл · хар,EC-CUPS,product,27000,,хар,,ml=260; material=Ган 316,,783328,/images/p/783328-1.webp
+EC-783321,Кофе сийрэгжүүлэгч холигч 51см,EC-BARISTA,product,55000,,,,,,783321,/images/p/783321-1.webp
+EC-783310,Нунтаг кофе Classico 250gr,EC-GROUND,product,34700,,,lavazza,grams=250,,783310,/images/p/783310-1.webp
+EC-782295,Нунтаг кофе D&G 200гр Autentico,EC-GROUND,product,48000,,,bialetti,grams=200,,782295,/images/p/782295-1.webp
+EC-782135,Үрлэн кофе Intenso 1000гр dark,EC-BEANS,product,125000,,,bialetti,grams=1000; roast=dark,,782135,/images/p/782135-1.webp
+EC-782111,Нунтаг кофе D&G 200гр,EC-GROUND,product,88000,,,bialetti,grams=200,,782111,/images/p/782111-1.webp
+EC-782102,Кофе чанагч MacKenzie Childs 3 cups,EC-MOKA,product,365000,,,bialetti,cups=3,,782102,/images/p/782102-1.webp
+EC-782091,Кофе чанагч Squid Game 6 cups,EC-MOKA,product,235000,,,bialetti,cups=6; material=Хөнгөн цагаан,,782091,/images/p/782091-1.webp
+EC-782089,Кофе чанагч Squid Game 3 cups,EC-MOKA,product,165000,,,bialetti,cups=3,,782089,/images/p/782089-1.webp
+EC-782050,Под кофе medium roast 50pcs,EC-PODS,product,88000,,,bialetti,pieces=50; roast=medium,,782050,/images/p/782050-1.webp
+EC-782048,Под кофе dark roast 50pcs,EC-PODS,product,88000,,,bialetti,pieces=50; roast=dark,,782048,/images/p/782048-1.webp
+EC-782045,Под кофе Decaf 50 pcs Кофейнгүй,EC-PODS,product,88000,,,bialetti,pieces=50; roast=decaf,1,782045,/images/p/782045-1.webp
+EC-773813,Chemex 400ml,EC-BREWERS,product,45000,,,,ml=400,,773813,/images/p/773813-1.webp
+EC-763381,Holder цаас 100ш · бор,EC-CAFE,product,13000,,бор,,pieces=100,,763381,/images/p/763381-1.webp
+EC-763376,Holder цаас 100ш · баярын,EC-CAFE,product,13000,,баярын,,pieces=100,,763376,/images/p/763376-1.webp
+EC-751505,Мока пот 6 аяга кофе чанагч,EC-MOKA,product,40000,,,,cups=6,,751505,/images/p/751505-1.webp
+EC-739011,Кофе бутлагч,EC-BARISTA,product,35000,,,,,,739011,/images/p/739011-1.webp
+EC-719019,Анхан шат (Basic Level),EC-ACADEMY,service,200000,,,,days=2,,719019,/images/p/719019-1.webp
+EC-719017,Дунд шат (Intermediate Level),EC-ACADEMY,service,400000,,,,days=4,,719017,/images/p/719017-1.webp
+EC-719016,Гүнзгий шат (Advanced Level),EC-ACADEMY,service,600000,,,,,,719016,/images/p/719016-1.webp
+EC-714588,Кофены шаарны сав,EC-BARISTA,product,42000,,,,,,714588,/images/p/714588-1.webp
+EC-714585,Аяга,EC-CUPS,product,9500,,,,,4,714585,/images/p/714585-1.webp
+EC-713245,Цэвэрлэгээний бодис 8ш,EC-BARISTA,product,15000,,,,pieces=8,,713245,/images/p/713245-1.webp
+EC-679028,Кофены машин под Ecoffee.mn · хар,EC-BREWERS,product,650000,,хар,,espressoMl=35; lungoMl=60,,679028,/images/p/679028-1.webp
+EC-679026,Кофены машин под Ecoffee.mn · цагаан,EC-BREWERS,product,650000,,цагаан,,espressoMl=35; lungoMl=60,,679026,/images/p/679026-1.webp
+EC-670618,Соруул Хүйтний 100ш,EC-CAFE,product,12000,,,,pieces=100,2,670618,/images/p/670618-1.webp
+EC-666915,Аяга Цаасан 14oz 100ш,EC-CAFE,product,46000,,,,oz=14; pieces=100,,666915,/images/p/666915-1.webp
+EC-665823,Кофе чанагч D&G blue 3 cups,EC-MOKA,product,365000,,,bialetti,cups=3,,665823,/images/p/665823-1.webp
+EC-582562,Кофе чанагч D&G induction 4 cups,EC-MOKA,product,498000,,,bialetti,cups=4; induction=true,,582562,/images/p/582562-1.webp
+EC-582560,Кофе чанагч D&G induction 2 cups,EC-MOKA,product,418000,,,bialetti,cups=2; induction=true,,582560,/images/p/582560-1.webp
+EC-582556,Кофе чанагч D&G red 6 cups,EC-MOKA,product,418000,,,bialetti,cups=6,,582556,/images/p/582556-1.webp
+EC-582555,Кофе чанагч D&G red 3 cups,EC-MOKA,product,328000,,,bialetti,cups=3,,582555,/images/p/582555-1.webp
+EC-582550,Кофе чанагч Bialetti & Dolce Gabbana Set-2,EC-MOKA,product,738000,,,bialetti,,1,582550,/images/p/582550-1.webp
+EC-582547,Нунтаг кофе D&G 200gr,EC-GROUND,product,61800,,,bialetti,grams=200,,582547,/images/p/582547-1.webp
+EC-582546,Кофе чанагч WWF express 3 cups,EC-MOKA,product,145000,195000,,bialetti,cups=3,19,582546,/images/p/582546-1.webp
+EC-582544,Халуун барьдаг сав Dolce Vita 500ml,EC-CUPS,product,75000,,,,ml=500,,582544,/images/p/582544-1.webp
+EC-582543,Аяга шилэн хос Capri,EC-CUPS,product,125000,,,bialetti,material=Шил,,582543,/images/p/582543-1.webp
+EC-556033,Үрлэн кофе Gold Selection 1000гр,EC-BEANS,product,145000,,,lavazza,grams=1000,,556033,/images/p/556033-1.webp
+EC-541575,Под кофе Torino medium 10 pcs,EC-PODS,product,13200,,,ilcaffe,pieces=10; roast=medium,,541575,/images/p/541575-1.webp
+EC-518383,Yuzu Lemon 1000ml,EC-SYRUPS,product,80000,,,1883,ml=1000,,518383,/images/p/518383-1.webp
+EC-518382,Tonic 1000ml,EC-SYRUPS,product,72000,80000,,1883,ml=1000,,518382,/images/p/518382-1.webp
+EC-518381,Frappé Mix 1000ml,EC-SYRUPS,product,80000,,,1883,ml=1000,,518381,/images/p/518381-1.webp
+EC-518260,Syrup Mojito mint 1L,EC-SYRUPS,product,65000,,,1883,ml=1000,,518260,/images/p/518260-1.webp
+EC-518257,Syrup Lemonade 1L,EC-SYRUPS,product,65000,,,1883,ml=1000,,518257,/images/p/518257-1.webp
+EC-518251,Syrup Rose 1L,EC-SYRUPS,product,68000,,,1883,ml=1000,,518251,/images/p/518251-1.webp
+EC-516867,Syrup Strawberry 1L,EC-SYRUPS,product,54400,68000,,1883,ml=1000,,516867,/images/p/516867-1.webp
+EC-516864,Syrup Chocolate 1L,EC-SYRUPS,product,60000,75000,,1883,ml=1000,,516864,/images/p/516864-1.webp
+EC-462710,Хөргөгч,EC-CAFE,product,1500000,,,,,,462710,/images/p/462710-1.webp
+EC-461345,"Аяны цүнх, ширээ болдог",EC-TRAVEL,product,75000,,,,,,461345,/images/p/461345-1.webp
+EC-461330,Кофе чанагчны цэвэрлэгч багс,EC-BARISTA,product,25000,,,,,,461330,/images/p/461330-1.webp
+EC-408103,Даавуун торон цүнх,EC-TRAVEL,product,19000,,,,,,408103,/images/p/408103-1.webp
+EC-400718,Кофе чанагч mini set blue 2 cups,EC-MOKA,product,220000,,,bialetti,cups=2; induction=false; material=Хөнгөн цагаан,,400718,/images/p/400718-1.webp
+EC-390103,Багс · модон иштэй,EC-BARISTA,product,8000,,модон иштэй,,,,390103,/images/p/390103-1.webp
+EC-390102,Багс · цагаан иштэй,EC-BARISTA,product,3000,,цагаан иштэй,,,,390102,/images/p/390102-1.webp
+EC-388722,Сэрвэр 600мл,EC-BARISTA,product,35000,,,,ml=600,,388722,/images/p/388722-1.webp
+EC-388706,Bialetti Classico 500g Bean,EC-BEANS,product,65000,,,bialetti,grams=500,,388706,/images/p/388706-1.webp
+EC-388705,Үрлэн кофе Pregiato 500гр Light,EC-BEANS,product,65000,,,bialetti,grams=500; roast=light; arabica=true,,388705,/images/p/388705-1.webp
+EC-388704,Bialetti Intenso 500g Bean,EC-BEANS,product,65000,,,bialetti,grams=500,,388704,/images/p/388704-1.webp
+EC-387395,Халбага 4 хос DECO GLAMOUR,EC-CUPS,product,60000,,,bialetti,pieces=4; pairs=true,,387395,/images/p/387395-1.webp
+EC-387392,Кофе чанагч mini set DECO GLAMOUR 2 cups,EC-MOKA,product,265000,,,bialetti,cups=2; induction=false; material=Хөнгөн цагаан,,387392,/images/p/387392-1.webp
+EC-386962,Кофе бутлагч электрон,EC-BARISTA,product,180000,,,,,,386962,/images/p/386962-1.webp
+EC-372761,PVC дэвсгэр жижиг,EC-BARISTA,product,30000,,,,,,372761,/images/p/372761-1.webp
+EC-372760,PVC дэвсгэр том,EC-BARISTA,product,35000,,,,,,372760,/images/p/372760-1.webp
+EC-372220,Халбага Хавчаартай,EC-CUPS,product,30000,,,,,,372220,/images/p/372220-1.webp
+EC-363864,Үрлэн кофе Classico 1000гр dark,EC-BEANS,product,125000,,,lavazza,grams=1000; roast=dark,,363864,/images/p/363864-1.webp
+EC-363863,Үрлэн кофе Rossa 1000гр medium,EC-BEANS,product,135000,,,lavazza,grams=1000; roast=medium,,363863,/images/p/363863-1.webp
+EC-347001,Аяны цүнх,EC-TRAVEL,product,45000,,,,,1,347001,/images/p/347001-1.webp
+EC-346820,Сэлбэг бариул 2 аяга induction,EC-PARTS,product,26000,,,bialetti,cups=2; induction=true,,346820,/images/p/346820-1.webp
+EC-346819,Сэлбэг бариул induction 4 аяга,EC-PARTS,product,28000,,,bialetti,cups=4; induction=true,,346819,/images/p/346819-1.webp
+EC-346818,Сэлбэг бариул induction 6 аяга,EC-PARTS,product,30000,,,bialetti,cups=6; induction=true,,346818,/images/p/346818-1.webp
+EC-346816,Сэлбэг резин 1 аяга,EC-PARTS,product,12000,,,bialetti,cups=1,,346816,/images/p/346816-1.webp
+EC-346815,Сэлбэг резин 2 аяга,EC-PARTS,product,14000,,,bialetti,cups=2,,346815,/images/p/346815-1.webp
+EC-346814,Сэлбэг резин 6 аяга,EC-PARTS,product,21000,,,bialetti,cups=6,,346814,/images/p/346814-1.webp
+EC-346798,Сэлбэг резин ган 10 аяга,EC-PARTS,product,25000,,,bialetti,cups=10,,346798,/images/p/346798-1.webp
+EC-346792,Аяга Deco Glamour BLUE mug,EC-CUPS,product,48000,,,bialetti,,,346792,/images/p/346792-1.webp
+EC-346789,Аяга Deco Glamour GREEN mug,EC-CUPS,product,48000,,,bialetti,,,346789,/images/p/346789-1.webp
+EC-346787,Аяга Deco Glamour RED mug,EC-CUPS,product,48000,,,bialetti,,,346787,/images/p/346787-1.webp
+EC-330693,Үрлэн кофе Torino 1000гр medium,EC-BEANS,product,115000,,,ilcaffe,grams=1000; roast=medium,,330693,/images/p/330693-1.webp
+EC-330689,Бариста Polo подволк L,EC-CAFE,product,75000,,,borbone,,,330689,/images/p/330689-1.webp
+EC-330688,Бариста Polo подволк М,EC-CAFE,product,75000,,,borbone,,,330688,/images/p/330688-1.webp
+EC-330687,Бариста малгай,EC-CAFE,product,30000,,,borbone,,,330687,/images/p/330687-1.webp
+EC-321188,Аяга Borbone 1000ml,EC-CUPS,product,145000,,,borbone,ml=1000,1,321188,/images/p/321188-1.webp
+EC-319359,Филтер Даавуун,EC-TRAVEL,product,35000,,,,,,319359,/images/p/319359-1.webp
+EC-310101,Халбага Бариста,EC-CUPS,product,12000,,,,,,310101,/images/p/310101-1.webp
+EC-298253,Аяга Эспрессо сэт 6 хос,EC-CUPS,product,95000,,,bialetti,pieces=6; pairs=true,,298253,/images/p/298253-1.webp
+EC-298252,Аяга Эспрессо сэт 4 хос,EC-CUPS,product,135000,,,bialetti,pieces=4; pairs=true,,298252,/images/p/298252-1.webp
+EC-288294,Сэлбэг резин ган 6 аяга,EC-PARTS,product,20000,,,bialetti,cups=6,,288294,/images/p/288294-1.webp
+EC-286305,Holder гялгар тор,EC-CAFE,product,13000,,,,,,286305,/images/p/286305-1.webp
+EC-286177,didiesse accessori,EC-BARISTA,product,60000,,,didiesse,,,286177,/images/p/286177-1.webp
+EC-284913,Температур хэмжигч,EC-BARISTA,product,12000,,,,,,284913,/images/p/284913-1.webp
+EC-284910,Бор сахар,EC-CAFE,product,12500,,,didiesse,,,284910,/images/p/284910-1.webp
+EC-284909,Цагаан сахар,EC-CAFE,product,10500,,,didiesse,,,284909,/images/p/284909-1.webp
+EC-262365,Сойз цэвэрлэгээний,EC-BARISTA,product,15000,,,,,,262365,/images/p/262365-1.webp
+EC-185507,Кофе чанагч Moka express red 3 cups,EC-MOKA,product,165000,,,bialetti,cups=3; yieldMl=135; induction=false; material=Хөнгөн цагаан,,185507,/images/p/185507-1.webp
+EC-154478,Кофе машин гар Filterholder 1 way,EC-BARISTA,product,239000,,,lelit,,,154478,/images/p/154478-1.webp
+EC-150246,Нунтаг кофе Intenso 250гр dark,EC-GROUND,product,34700,,,bialetti,grams=250; roast=dark,,150246,/images/p/150246-1.webp
+EC-150240,Аяга Каппучино сэт · цагаан,EC-CUPS,product,75000,,цагаан,bialetti,,,150240,/images/p/150240-1.webp
+EC-150238,Халбага 4 хос Омино,EC-CUPS,product,60000,,,bialetti,pieces=4; pairs=true,,150238,/images/p/150238-1.webp
+EC-137159,Соруул халууны 100ш,EC-CAFE,product,5500,,,,pieces=100,,137159,/images/p/137159-1.webp
+EC-130580,Аяга Каппучино сэт · өнгөт хээтэй,EC-CUPS,product,75000,,өнгөт хээтэй,bialetti,,,130580,/images/p/130580-1.webp
+EC-130578,Аяга Омино аяганы сэт,EC-CUPS,product,85000,,,bialetti,,,130578,/images/p/130578-1.webp
+EC-114411,Сүү хөөсрүүлэгч гар,EC-BARISTA,product,160000,,,,,1,114411,/images/p/114411-1.webp
+EC-111286,Кофе хандлагч french press 1000ml,EC-BREWERS,product,120000,,,bialetti,ml=1000,,111286,/images/p/111286-1.webp
+EC-108591,Кофены машин (под кофе),EC-BREWERS,product,950000,,,,watts=650,,108591,/images/p/108591-1.webp
+EC-107270,Borbone Bean Blu 500gr,EC-BEANS,product,58000,,,borbone,grams=500,,107270,/images/p/107270-1.webp
+EC-107263,Үрлэн кофе Borbone Blu 1000гр,EC-BEANS,product,88000,,,borbone,grams=1000,,107263,/images/p/107263-1.webp
+EC-95767,Knock box кофены шаар сав · жижиг,EC-BARISTA,product,30000,,жижиг,,,,95767,/images/p/95767-1.webp
+EC-93613,Халбага хэмжүүрт ган,EC-CUPS,product,12000,,,,,,93613,/images/p/93613-1.webp
+EC-68955,Электрон жин,EC-BARISTA,product,45000,,,,,,68955,/images/p/68955-1.webp
+EC-68931,Газ холбогч · хоолойтой,EC-TRAVEL,product,28000,,хоолойтой,,,,68931,/images/p/68931-1.webp
+EC-68923,Chemex 1000ml,EC-BREWERS,product,85000,,,,ml=1000,,68923,/images/p/68923-1.webp
+EC-55061,Кофе чанагч Bialetti Italy 3 cups,EC-MOKA,product,165000,,,bialetti,cups=3; induction=false; material=Хөнгөн цагаан,,55061,/images/p/55061-1.webp
+EC-55060,Кофе чанагч Moka express black 6 cups,EC-MOKA,product,245000,,,bialetti,cups=6; induction=false; material=Хөнгөн цагаан,,55060,/images/p/55060-1.webp
+EC-55035,Нунтаг кофе Pregiato 250гр Light,EC-GROUND,product,34700,,,bialetti,grams=250; roast=light; arabica=true,,55035,/images/p/55035-1.webp
+EC-55005,Кофе чанагч Moka express 9 cups,EC-MOKA,product,290000,,,bialetti,cups=9; material=Хөнгөн цагаан,,55005,/images/p/55005-1.webp
+EC-55003,Кофе чанагч Moka express 4 cups,EC-MOKA,product,175000,,,bialetti,cups=4; material=Хөнгөн цагаан,,55003,/images/p/55003-1.webp
+EC-36090,Espresso cups 6 pcs,EC-CUPS,product,105000,,,bialetti,pieces=6,,36090,/images/p/36090-1.webp
+EC-35720,Tamper суурь том,EC-BARISTA,product,30000,,,,,,35720,/images/p/35720-1.webp
+EC-35711,Кофе сийрэгжүүлэгч холигч 58см,EC-BARISTA,product,55000,,,,,,35711,/images/p/35711-1.webp
+EC-35149,Tamper Тампер 58cm,EC-BARISTA,product,35000,,,,,,35149,/images/p/35149-1.webp
+EC-34764,Кофе чанагч Moka express red 6 cups,EC-MOKA,product,245000,,,bialetti,cups=6; induction=false; material=Хөнгөн цагаан,1,34764,/images/p/34764-1.webp
+EC-34372,Сүү хөөсрүүлэгч 400мл гар,EC-BARISTA,product,45000,,,,ml=400,1,34372,/images/p/34372-1.webp
+EC-26626,Нунтаг кофе Oro 250гр light,EC-GROUND,product,39700,,,lavazza,grams=250; roast=light; arabica=true,,26626,/images/p/26626-1.webp
+EC-22977,Кофены шаар сав сэт LELIT KNOCK BOX WITH CLOTH AND BRUSH,EC-BARISTA,product,275000,,,lelit,,,22977,/images/p/22977-1.webp
+EC-22754,Сэлбэг юүлүүр 12 cups,EC-PARTS,product,23400,,,bialetti,cups=12,,22754,/images/p/22754-1.webp
+EC-22753,Сэлбэг юүлүүр 9 аяга,EC-PARTS,product,24000,,,bialetti,cups=9,,22753,/images/p/22753-1.webp
+EC-22747,Сэлбэг резин 9 аяга,EC-PARTS,product,22000,,,bialetti,cups=9,,22747,/images/p/22747-1.webp
+EC-22746,Сэлбэг резин 12 аяга,EC-PARTS,product,26000,,,bialetti,cups=12,,22746,/images/p/22746-1.webp
+EC-22668,Кофе чанагч Bialetti Italy 6 cups,EC-MOKA,product,260000,,,bialetti,cups=6; induction=false; material=Хөнгөн цагаан,,22668,/images/p/22668-1.webp
+EC-22659,Кофе чанагч Moka express black 3 cups,EC-MOKA,product,165000,,,bialetti,cups=3; induction=false; material=Хөнгөн цагаан,,22659,/images/p/22659-1.webp
+EC-22649,Кофе чанагч Alpina 3 cups,EC-MOKA,product,150000,,,bialetti,cups=3,1,22649,/images/p/22649-1.webp
+EC-22499,Нунтаг кофе Rossa 250гр,EC-GROUND,product,36700,,,lavazza,grams=250,,22499,/images/p/22499-1.webp

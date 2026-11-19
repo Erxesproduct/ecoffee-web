@@ -1,0 +1,16 @@
+﻿code,name,parent code
+EC,Ecoffee,
+EC-BEANS,Үрлэн кофе,EC
+EC-GROUND,Нунтаг кофе,EC
+EC-PODS,Под кофе,EC
+EC-TEA,"Цай, матча",EC
+EC-MOKA,Мока пот,EC
+EC-BREWERS,"Кофе машин, хандлагч",EC
+EC-CUPS,"Аяга, халбага",EC
+EC-SYRUPS,Сироп,EC
+EC-BARISTA,Бариста хэрэгсэл,EC
+EC-CAFE,Кофе шопт,EC
+EC-PARTS,Сэлбэг,EC
+EC-TRAVEL,"Аялал, гадаа",EC
+EC-ACADEMY,Бариста сургалт,EC
+EC-DELIVERY,Хүргэлт,EC
