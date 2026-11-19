@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Footer } from "@/components/footer";
+import { Greeter } from "@/components/greeter";
 import { Header } from "@/components/header";
 import { BottomBar } from "@/components/header-tools";
 import { business } from "@/content/business";
@@ -32,6 +33,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main id="main">{children}</main>
         <Footer />
         <BottomBar />
+        <Greeter />
       </body>
     </html>
   );

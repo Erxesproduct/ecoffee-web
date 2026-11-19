@@ -126,6 +126,33 @@
     transform: rotate(2deg);
   }
 }
+@keyframes greet {
+  0%,
+  100% {
+    rotate: 0deg;
+  }
+  20% {
+    rotate: -7deg;
+  }
+  40% {
+    rotate: 5deg;
+  }
+  60% {
+    rotate: -4deg;
+  }
+  80% {
+    rotate: 2deg;
+  }
+}
+@keyframes bob {
+  0%,
+  100% {
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -3px;
+  }
+}
 
 @layer base {
   html {
@@ -418,6 +445,17 @@
   .swing {
     transform-origin: 50% 0;
     animation: swing 6s ease-in-out infinite;
+  }
+  /* the corner greeter (moustached man from the Ecoffee banner) */
+  .greeter-man {
+    translate: 0 0;
+    transform-origin: 50% 95%;
+    animation: bob 3.5s ease-in-out infinite;
+  }
+  .greeter-man.greeter-wave {
+    animation:
+      greet 1.4s ease-in-out 2,
+      bob 3.5s ease-in-out infinite;
   }
   .pop-in {
     animation: pop 0.5s cubic-bezier(0.3, 1.5, 0.5, 1) both;

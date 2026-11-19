@@ -83,7 +83,7 @@ export function HeaderTools() {
         )}
       </Link>
       {toast && (
-        <div role="status" className="pop-in card fixed right-4 bottom-24 z-50 flex w-[min(360px,calc(100vw-32px))] items-center gap-3 p-3 md:top-32 md:bottom-auto">
+        <div role="status" className="pop-in card fixed right-4 bottom-44 z-50 flex w-[min(360px,calc(100vw-32px))] items-center gap-3 p-3 md:top-32 md:bottom-auto">
           <span className="relative grid h-14 w-14 shrink-0 place-items-center overflow-hidden rounded-[12px] bg-white ring-1 ring-line">
             {toast.t ? <Image src={toast.t} alt="" fill sizes="56px" className="object-contain p-1" /> : <CheckIcon size={22} />}
           </span>
