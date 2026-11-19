@@ -52,3 +52,24 @@ Steps:
    orders name every line with its `EC-…` code.
 3. **Inventories → Remainders**: enter real stock.
 4. Photos: upload from `public/images/p/` (path in the CSV) if erxes should show them too.
+
+## 1.2 Payment (QPay and bank transfer)
+
+On Zochil the payment rule is «100 хувь төлбөрөө төлж захиалгаа баталгаажуулна» with a Khan Bank account; `has_qpay`
+is on, but the QPay2 and StorePay methods are `disabled` (open question 1). The website offers:
+
+- **QPay** through erxes: `generateInvoiceUrl` (public) creates the invoice after the order is saved in erxes; the
+  customer pays on the erxes payment page and returns to `/order/<reference>`, where `invoicesCheck` is asked every 5 s.
+- **Bank transfer** (the shop's own rule): the order page shows Хаан банк 5011130146 (Ж.Оюунжаргал) and the order code
+  `EC-…` to write in the transfer, with copy buttons. Staff confirm it by hand.
+- No order is sent to QPay unless it was first recorded in erxes (no money asked for an order staff cannot see).
+
+Steps:
+
+1. Get Ecoffee's QPay merchant credentials (`client_id`, `client_secret`, `invoice_code`); ask QPay / Zochil whether
+   the current merchant can be used outside Zochil.
+2. **Settings → Payments → Add → QPay (v2)**: enter them. Make a 100₮ test invoice in erxes.
+3. Copy the payment method's `_id` into Vercel as `ERXES_PAYMENT_IDS`.
+4. Bank transfer: staff check the Khan Bank statement for the `EC-…` code and move the card to «Баталгаажсан».
+5. **Not yet tested**: nothing has been run against a real QPay merchant. Do not call payments working until step 2
+   and section 1.5 pass with authorized credentials.
