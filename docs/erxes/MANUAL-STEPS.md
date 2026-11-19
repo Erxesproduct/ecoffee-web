@@ -84,3 +84,25 @@ the server) and writes it on the order. The receipt is issued in erxes by staff 
 2. Register for **PosAPI 3.0** (ebarimt.mn) and install the PosAPI service.
 3. **Settings → eBarimt**: PosAPI URL, TIN, district code, VAT switches; assign it to the website pipeline.
 4. For every paid order: issue the receipt once (check the card first) and send the lottery number by SMS / email.
+
+## 1.4 Delivery zones, fees and order statuses
+
+Website (done), from Zochil shop 2168:
+
+| Option | Fee | Rule |
+| --- | --- | --- |
+| Улаанбаатар (Zochil «Үндсэн хүргэлт», id 454) | 8,000₮, free when goods are above 200,000₮ | district, khoroo, address |
+| Орон нутаг | not offered online | Zochil has the countryside switch on but no countryside option; the site asks to call (open question 2) |
+| Pre-order cups | same fee | «14–30 хоногт ирнэ», from the product text (open question 6) |
+
+- The delivery rule is word for word from the shop: «Хүргэлтийн хөлс 8,000 төгрөг. 200,000 төгрөгөөс дээш хүргэлт
+  үнэгүй.» No cut-off time, day off or zone limits are given, so none are shown.
+- Fees and rules live in `src/content/business.ts`; change them there and in the erxes delivery product.
+
+erxes:
+
+1. Import `docs/erxes/ecoffee-delivery.csv` (`EC-DELIVERY-454` Улаанбаатар 8,000₮).
+2. **Sales → Boards → «Онлайн захиалга» → pipeline «Вэбсайт»**, stages (as on the website order page):
+   Хүлээгдэж байна → Баталгаажсан → Бэлтгэж байна → Хүргэлтэд гарсан → Хүргэгдсэн, plus Цуцлагдсан.
+3. **Frontline → Forms → (order form) → Settings**: create a sales card in «Хүлээгдэж байна» for every submission.
+   Staff move it to «Баталгаажсан» when the QPay invoice shows paid or the transfer arrives.
